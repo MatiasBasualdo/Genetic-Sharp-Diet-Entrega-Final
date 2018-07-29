@@ -1,0 +1,18 @@
+C:\Users\Matias\Documents\Seminario multi agentes\Tools\GeneticSharp-master-SMA\GeneticSharp-master\src\EF\bin\Debug\netstandard2.0\EF.deps.json
+C:\Users\Matias\Documents\Seminario multi agentes\Tools\GeneticSharp-master-SMA\GeneticSharp-master\src\EF\bin\Debug\netstandard2.0\EF.dll
+C:\Users\Matias\Documents\Seminario multi agentes\Tools\GeneticSharp-master-SMA\GeneticSharp-master\src\EF\bin\Debug\netstandard2.0\EF.pdb
+C:\Users\Matias\Documents\Seminario multi agentes\Tools\GeneticSharp-master-SMA\GeneticSharp-master\src\EF\obj\Debug\netstandard2.0\EF.csprojAssemblyReference.cache
+C:\Users\Matias\Documents\Seminario multi agentes\Tools\GeneticSharp-master-SMA\GeneticSharp-master\src\EF\obj\Debug\netstandard2.0\EF.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\Seminario multi agentes\Tools\GeneticSharp-master-SMA\GeneticSharp-master\src\EF\obj\Debug\netstandard2.0\EF.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\Seminario multi agentes\Tools\GeneticSharp-master-SMA\GeneticSharp-master\src\EF\obj\Debug\netstandard2.0\EF.AssemblyInfo.cs
+C:\Users\Matias\Documents\Seminario multi agentes\Tools\GeneticSharp-master-SMA\GeneticSharp-master\src\EF\obj\Debug\netstandard2.0\EF.dll
+C:\Users\Matias\Documents\Seminario multi agentes\Tools\GeneticSharp-master-SMA\GeneticSharp-master\src\EF\obj\Debug\netstandard2.0\EF.pdb
+C:\Users\Matias\Downloads\Genetic-Sharp-Diet-master\EF\bin\Debug\netstandard2.0\EF.deps.json
+C:\Users\Matias\Downloads\Genetic-Sharp-Diet-master\EF\bin\Debug\netstandard2.0\EF.dll
+C:\Users\Matias\Downloads\Genetic-Sharp-Diet-master\EF\bin\Debug\netstandard2.0\EF.pdb
+C:\Users\Matias\Downloads\Genetic-Sharp-Diet-master\EF\obj\Debug\netstandard2.0\EF.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Downloads\Genetic-Sharp-Diet-master\EF\obj\Debug\netstandard2.0\EF.AssemblyInfoInputs.cache
+C:\Users\Matias\Downloads\Genetic-Sharp-Diet-master\EF\obj\Debug\netstandard2.0\EF.AssemblyInfo.cs
+C:\Users\Matias\Downloads\Genetic-Sharp-Diet-master\EF\obj\Debug\netstandard2.0\EF.dll
+C:\Users\Matias\Downloads\Genetic-Sharp-Diet-master\EF\obj\Debug\netstandard2.0\EF.pdb
+C:\Users\Matias\Downloads\Genetic-Sharp-Diet-master\EF\obj\Debug\netstandard2.0\EF.csprojAssemblyReference.cache
